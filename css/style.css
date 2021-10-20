@@ -1,0 +1,35 @@
+.experience,.other{
+    margin: 30px auto;
+    padding: 40px;
+    background-color: #0D0B60;
+    color: darkgray;
+}
+
+.experience2{
+    margin: 30px auto;
+    padding: 40px;
+    background-color: #282692;
+    color: darkgray;
+}
+
+main{
+    padding: 40px;
+}
+#flip,#flip2{
+    padding: 10px;
+    background-color: #0D0B60;
+    margin: 0;
+    color: white;
+}
+#panel,#panel2{
+    margin: 0;
+    padding: 30px;
+    background-color: #9796D5;
+}
+
+hr{
+    margin: 0;
+}
+h2{
+    margin: 0;
+}
